@@ -93,3 +93,9 @@ int main(){
 	Matrix c334=mk^4;c334.display();
     return 0;
 }
+
+/*
+
+矩阵类,包含基础矩阵操作
+
+*/
