@@ -31,8 +31,8 @@ void tarjan(int rt){
 			son++;
 			tarjan(to);
 			LOW[rt]=min(LOW[rt],LOW[to]);
+			if(rt==root&&son>1||rt!=root&&DNF[rt]<=LOW[to]) vis[rt]=1;
 		}else LOW[rt]=min(LOW[rt],LOW[to]);
-		if(rt==root&&son>1||rt!=root&&DNF[rt]<=LOW[to]) vis[rt]=1;
 	}
 }
 int n=0,m=0;
