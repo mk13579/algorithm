@@ -60,3 +60,10 @@ int main(){
 	cout<<spfa()<<endl;
 	return 0;
 } 
+
+
+/*
+
+spfa解决负环问题
+
+*/
