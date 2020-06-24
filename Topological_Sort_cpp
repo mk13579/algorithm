@@ -1,0 +1,42 @@
+#include<bits/stdc++.h>
+using namespace std;
+const int N = 10000;
+int tot=0;
+int head[N]={0};
+int nex[N]={0};
+int V[N]={0};
+int in[N]={0};
+vector<int> ret;
+int n=0,m=0;
+void add(int x,int y){
+	tot++;
+	nex[tot]=head[x];V[tot]=y;head[x]=tot;
+}
+void topsqrt(){
+	queue<int> que;
+	for(int i=1;i<=n;i++) if(!in[i]) que.push(i);
+	while(que.size()){
+		int x=que.front();que.pop();in[x]=-1;
+		ret.push_back(x);
+		for(int i=head[x];i;i=nex[i]){
+			int to=V[i];
+			if(--in[to]==0) que.push(to);
+		}
+	}
+	for(int i=0;i<ret.size();i++) cout<<ret[i]<<" ";cout<<endl;
+}
+int main(){
+	cin>>n>>m;
+	for(int i=1;i<=m;i++){
+		int x,y;cin>>x>>y;
+		add(x,y);in[y]++;
+	} 
+	topsqrt();
+	return 0;
+} 
+
+/*
+
+拓扑排序 
+
+*/
