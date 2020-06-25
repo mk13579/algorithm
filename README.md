@@ -116,3 +116,10 @@
   * ~KNN~
   * ~条件随机场~
   * ~隐马尔可夫模型~
+  * ~Bert~*
+  * ~Word2Vec~
+  * ~LSTM~
+  * ~CNN~
+  * ~FNN~
+  * ~GRU~
+  * ~Transfomer~
