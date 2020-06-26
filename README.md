@@ -108,7 +108,7 @@
   * ~多项式求逆~
   * ~可持续化数组~
   * ~康托展开~
-  * 裴蜀定理
+  * [裴蜀定理](https://github.com/mk13579/algorithm/blob/master/B%C3%A9zout's_Identity.cpp)
   * ~巴什博弈~
   * ~威佐夫博弈~
   * ~斐波那契博弈~
