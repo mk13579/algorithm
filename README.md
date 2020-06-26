@@ -1,4 +1,4 @@
-# algorithm
+﻿# algorithm
 * 传统算法
   * [大数运算]()
   * ~高精度数运算~
@@ -68,7 +68,7 @@
   * ~二次剩余~
   * [莫队算法](https://github.com/mk13579/algorithm/blob/master/Mo_Team.cpp)
   * [卢卡斯定理](https://github.com/mk13579/algorithm/blob/master/Lucas.cpp)
-  * ~CDQ分治~
+  * [CDQ分治](https://github.com/mk13579/algorithm/blob/master/CDQ.cpp)
   * [二分查找](https://github.com/mk13579/algorithm/blob/master/Binary_Search.cpp)
   * [三分查找](https://github.com/mk13579/algorithm/blob/master/Three_Point_Search.cpp)
   * ~树链剖分~
