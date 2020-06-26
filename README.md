@@ -21,7 +21,7 @@
   * [最长回文串](https://github.com/mk13579/algorithm/blob/master/Manacher.cpp)
   * ~回文树算法~
   * [NNT](https://github.com/mk13579/algorithm/blob/master/NNT.cpp)
-  * DFT(https://github.com/mk13579/algorithm/blob/master/DFT.cpp)
+  * [DFT](https://github.com/mk13579/algorithm/blob/master/DFT.cpp)
   * ~MTT~
   * ~FWT~
   * ~FMT~
