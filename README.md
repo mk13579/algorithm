@@ -2,21 +2,25 @@
 * 传统算法
   * ~大数运算~
   * ~高精度数运算~
-  * 快速幂,快速乘
-  * 快速傅里叶变换
-  * 最短路
+  * [快速幂,快速乘](https://github.com/mk13579/algorithm/blob/master/Fast_power_mul.cpp)
+  * [快速傅里叶变换](https://github.com/mk13579/algorithm/blob/master/FFT.cpp)
+  * [最短路_Dijkstra](https://github.com/mk13579/algorithm/blob/master/short_path_Dijkstra.cpp)
+  * [最短路径_Floyd](https://github.com/mk13579/algorithm/blob/master/short_path_Floyd.cpp)
   * ~次短路~
   * [矩阵类](https://github.com/mk13579/algorithm/blob/master/Matrix.cpp)
-  * 树状数组
-  * 最小生成树
-  * 线段树
-  * 字典树
-  * KMP算法
+  * [树状数组一维](https://github.com/mk13579/algorithm/blob/master/Binary_Indexed_Tree_one_dim.cpp)
+  * [树状数组二维](https://github.com/mk13579/algorithm/blob/master/Binary_Indexed_Tree_two_dim.cpp)
+  * [最小生成树_Kruskal](https://github.com/mk13579/algorithm/blob/master/Minimum_Spanning_Tree_Kruskal.cpp)
+  * [最小生成树_Prim](https://github.com/mk13579/algorithm/blob/master/Minimum_Spanning_Tree_Prim.cpp)
+  * [线段树_Max](https://github.com/mk13579/algorithm/blob/master/Segment_Tree_Max.cpp)
+  * [线段树_Sum](https://github.com/mk13579/algorithm/blob/master/Segment_Tree_Sum.cpp)
+  * [字典树](https://github.com/mk13579/algorithm/blob/master/Trie_Tree.cpp)
+  * [KMP算法](https://github.com/mk13579/algorithm/blob/master/KMP.cpp)
   * ~扩展KMP算法~
   * ~BM算法~
-  * 最长回文串
+  * [最长回文串](https://github.com/mk13579/algorithm/blob/master/Manacher.cpp)
   * ~回文树算法~
-  * NNT
+  * [NNT](https://github.com/mk13579/algorithm/blob/master/NNT.cpp)
   * ~DFT~
   * ~MTT~
   * ~FWT~
@@ -34,9 +38,8 @@
   * ~网络流~
   * ~费用流~
   * ~插头DP~
-  * 素数
-  * 欧拉函数
-  * 莫比乌斯函数
+  * [素数](https://github.com/mk13579/algorithm/blob/master/Linear_Sieve_Prime.cpp)
+  * [欧拉函数/莫比乌斯函数](https://github.com/mk13579/algorithm/blob/master/Mu_And_Phi.cpp)
   * ~BSGS算法~
   * 二分匹配
   * 拓扑排序
