@@ -14,6 +14,7 @@
   * [线段树_Max](https://github.com/mk13579/algorithm/blob/master/Segment_Tree_Max.cpp)
   * [线段树_Sum](https://github.com/mk13579/algorithm/blob/master/Segment_Tree_Sum.cpp)
   * [字典树](https://github.com/mk13579/algorithm/blob/master/Trie_Tree.cpp)
+  * [堆](https://github.com/mk13579/algorithm/blob/master/Heap.cpp)
   * [KMP算法](https://github.com/mk13579/algorithm/blob/master/KMP.cpp)
   * ~扩展KMP算法~
   * ~BM算法~
