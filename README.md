@@ -41,48 +41,50 @@
   * [素数](https://github.com/mk13579/algorithm/blob/master/Linear_Sieve_Prime.cpp)
   * [欧拉函数/莫比乌斯函数](https://github.com/mk13579/algorithm/blob/master/Mu_And_Phi.cpp)
   * ~BSGS算法~
-  * 二分匹配
-  * 拓扑排序
+  * [二分匹配](https://github.com/mk13579/algorithm/blob/master/Bipartite_Matching.cpp)
+  * [拓扑排序](https://github.com/mk13579/algorithm/blob/master/Topological_Sort_cpp)
   * ~关键路径~
-  * 第K小
-  * 逆序数
+  * [第K小](https://github.com/mk13579/algorithm/blob/master/quick_sort_find_k.cpp)
+  * [逆序数](https://github.com/mk13579/algorithm/blob/master/Merge_sort_Inversion_Number.cpp)
   * ~AC自动机~
   * ~后缀数组~
   * ~后缀树~
-  * ST表
+  * [ST表](https://github.com/mk13579/algorithm/blob/master/ST_Max.cpp)
   * ~单调栈~
   * ~单调队列~
-  * 欧拉路径
+  * [欧拉路径](https://github.com/mk13579/algorithm/blob/master/Euler_Road.cpp)
   * ~汉密尔顿路径~
   * ~斜率DP~
   * ~四边形不等式优化DP~
-  * 最优二叉树
-  * 割边
-  * 割点
-  * 缩点
+  * [最优二叉树](https://github.com/mk13579/algorithm/blob/master/Huffman_Tree.cpp)
+  * [割边](https://github.com/mk13579/algorithm/blob/master/Tarjan_Cut_Edge.cpp)
+  * [割点](https://github.com/mk13579/algorithm/blob/master/Tarjan_Cut_Vertex.cpp)
+  * [缩点](https://github.com/mk13579/algorithm/blob/master/Tarjan_Shrinking_Point.cpp)
   * ~拆点~
   * ~杜教筛~
-  * 扩展欧几里得
-  * 欧几里得
+  * [扩展欧几里得](https://github.com/mk13579/algorithm/blob/master/ex_GCD.cpp)
+  * [欧几里得](https://github.com/mk13579/algorithm/blob/master/Greatest_Common_Divisor.cpp)
   * ~二次剩余~
-  * 莫队算法
-  * 卢卡斯定理
+  * [莫队算法](https://github.com/mk13579/algorithm/blob/master/Mo_Team.cpp)
+  * [卢卡斯定理](https://github.com/mk13579/algorithm/blob/master/Lucas.cpp)
   * ~CDQ分治~
-  * 二分查找
-  * 三分查找
+  * [二分查找](https://github.com/mk13579/algorithm/blob/master/Binary_Search.cpp)
+  * [三分查找](https://github.com/mk13579/algorithm/blob/master/Three_Point_Search.cpp)
   * ~树链剖分~
   * ~模拟退火~
   * ~Splay~
-  * 负环
+  * [负环_spfa](https://github.com/mk13579/algorithm/blob/master/Negative_Ring_spfa.cpp)
+  * [负环_Bellman_Ford](https://github.com/mk13579/algorithm/blob/master/Negative_Ring_Bellman_Ford.cpp)
   * ~KD树~
-  * 24点游戏
-  * 计算器
-  * 高斯消元
-  * 自适应辛普森公式
+  * [24点游戏](https://github.com/mk13579/algorithm/blob/master/Game_24.cpp)
+  * [计算器](https://github.com/mk13579/algorithm/blob/master/Calculator_1)
+  * [高斯消元](https://github.com/mk13579/algorithm/blob/master/guess.cpp)
+  * [自适应辛普森公式](https://github.com/mk13579/algorithm/blob/master/simpson.cpp)
   * ~最近公共祖先(LCA)~
-  * 平面最近点对
-  * 树直径
-  * 树重心
+  * [平面最近点对](https://github.com/mk13579/algorithm/blob/master/Nearest_Point.cpp)
+  * [树直径_bfs](https://github.com/mk13579/algorithm/blob/master/Tree_Diameter_bfs.cpp)
+  * [树直径_dfs](https://github.com/mk13579/algorithm/blob/master/Tree_Diameter_dfs.cpp)
+  * [树重心](https://github.com/mk13579/algorithm/blob/master/Tree_Centre.cpp)
   * ~次小生成树~
   * ~A\*算法~
   * ~最小树型图~
