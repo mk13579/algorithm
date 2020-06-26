@@ -6,7 +6,7 @@
   * 快速傅里叶变换
   * 最短路
   * ~次短路~
-  * 矩阵类
+  * (矩阵类)[https://github.com/mk13579/algorithm/blob/master/Matrix.cpp]
   * 树状数组
   * 最小生成树
   * 线段树
