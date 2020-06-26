@@ -1,6 +1,6 @@
 # algorithm
 * 传统算法
-  * ~大数运算~
+  * [大数运算]()
   * ~高精度数运算~
   * [快速幂,快速乘](https://github.com/mk13579/algorithm/blob/master/Fast_power_mul.cpp)
   * [快速傅里叶变换](https://github.com/mk13579/algorithm/blob/master/FFT.cpp)
@@ -27,7 +27,7 @@
   * ~FMT~
   * ~大素数算法~
   * ~大数分解算法~
-  * 逆元
+  * [逆元](https://github.com/mk13579/algorithm/blob/master/Inverse_Element.cpp)
   * ~线性方程组~
   * ~中国剩余定理~
   * ~原根~
