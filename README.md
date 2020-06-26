@@ -3,7 +3,6 @@
   * [大数运算]()
   * ~高精度数运算~
   * [快速幂,快速乘](https://github.com/mk13579/algorithm/blob/master/Fast_power_mul.cpp)
-  * [快速傅里叶变换](https://github.com/mk13579/algorithm/blob/master/FFT.cpp)
   * [最短路_Dijkstra](https://github.com/mk13579/algorithm/blob/master/short_path_Dijkstra.cpp)
   * [最短路径_Floyd](https://github.com/mk13579/algorithm/blob/master/short_path_Floyd.cpp)
   * ~次短路~
@@ -20,8 +19,9 @@
   * ~BM算法~
   * [最长回文串](https://github.com/mk13579/algorithm/blob/master/Manacher.cpp)
   * ~回文树算法~
-  * [NNT](https://github.com/mk13579/algorithm/blob/master/NNT.cpp)
   * [DFT](https://github.com/mk13579/algorithm/blob/master/DFT.cpp)
+  * [FFT](https://github.com/mk13579/algorithm/blob/master/FFT.cpp)
+  * [NNT](https://github.com/mk13579/algorithm/blob/master/NNT.cpp)
   * ~MTT~
   * ~FWT~
   * ~FMT~
