@@ -2,6 +2,7 @@
 using namespace std;
 long long n=0,m=0;
 int main(){
+	cin>>n>>m;
 	double r=(sqrt(5)+1)/2;
 	long long d=abs(n-m)*r;
 	if(d==min(n,m)) cout<<"No"<<endl;
