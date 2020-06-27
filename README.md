@@ -115,7 +115,7 @@
   * [斐波那契博弈](https://github.com/mk13579/algorithm/blob/master/FIb_Game.cpp)
   * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
   * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
-  * ~Prufer 序列~
+  * ~Prufer序列~
   * ~扩展BSGS~
   * ~支配树~
   * ~扫描线~
@@ -141,7 +141,7 @@
   * ~树上 k 级祖先~
   * ~子序列自动机~
   * ~Johnson 全源最短路~
-  * ~最小表示法~
+  * [最小表示法](https://github.com/mk13579/algorithm/blob/master/Minimum_Representation.cpp)
   * ~多项式乘法逆~
   * ~多项式快速幂~
   * ~回文自动机（PAM）~
