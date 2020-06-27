@@ -111,9 +111,9 @@
   * ~康托展开~
   * [裴蜀定理](https://github.com/mk13579/algorithm/blob/master/B%C3%A9zout's_Identity.cpp)
   * [巴什博弈](https://github.com/mk13579/algorithm/blob/master/Bash_Game.cpp)
-  * [威佐夫博弈]()
-  * [斐波那契博弈]()
-  * [尼姆博弈]()
+  * [威佐夫博弈](https://github.com/mk13579/algorithm/blob/master/Wythoff_Game.cpp)
+  * [斐波那契博弈](https://github.com/mk13579/algorithm/blob/master/FIb_Game.cpp)
+  * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
   * [SG函数]()
   * ~Prufer 序列~
   * ~扩展BSGS~
