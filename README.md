@@ -114,7 +114,7 @@
   * [威佐夫博弈](https://github.com/mk13579/algorithm/blob/master/Wythoff_Game.cpp)
   * [斐波那契博弈](https://github.com/mk13579/algorithm/blob/master/FIb_Game.cpp)
   * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
-  * [SG函数]()
+  * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
   * ~Prufer 序列~
   * ~扩展BSGS~
   * ~支配树~
