@@ -110,11 +110,11 @@
   * ~可持续化数组~
   * ~康托展开~
   * [裴蜀定理](https://github.com/mk13579/algorithm/blob/master/B%C3%A9zout's_Identity.cpp)
-  * ~巴什博弈~
-  * ~威佐夫博弈~
-  * ~斐波那契博弈~
-  * ~尼姆博弈~
-  * ~SG函数~
+  * [巴什博弈](https://github.com/mk13579/algorithm/blob/master/Bash_Game.cpp)
+  * [威佐夫博弈]()
+  * [斐波那契博弈]()
+  * [尼姆博弈]()
+  * [SG函数]()
   * ~Prufer 序列~
   * ~扩展BSGS~
   * ~支配树~
