@@ -32,7 +32,7 @@
   * ~线性方程组~
   * ~中国剩余定理~
   * ~原根~
-  * (Trie图)[https://github.com/mk13579/algorithm/blob/master/Trie_graph_or_AC_Automaton.cpp]
+  * [Trie图](https://github.com/mk13579/algorithm/blob/master/Trie_graph_or_AC_Automaton.cpp)
   * ~动态树~
   * ~红黑树~
   * ~主席树~
