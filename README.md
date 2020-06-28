@@ -42,7 +42,7 @@
   * ~插头DP~
   * [素数](https://github.com/mk13579/algorithm/blob/master/Linear_Sieve_Prime.cpp)
   * [欧拉函数/莫比乌斯函数](https://github.com/mk13579/algorithm/blob/master/Mu_And_Phi.cpp)
-  * ~BSGS算法~
+  * [BSGS算法](https://github.com/mk13579/algorithm/blob/master/BSGS.cpp)
   * [二分匹配](https://github.com/mk13579/algorithm/blob/master/Bipartite_Matching.cpp)
   * [拓扑排序](https://github.com/mk13579/algorithm/blob/master/Topological_Sort_cpp)
   * ~关键路径~
