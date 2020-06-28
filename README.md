@@ -157,7 +157,7 @@
   * ~常系数齐次线性递推~
   * ~树套树~
   * ~动态图完全连通性~
-  * ~K短路~
+  * [K短路](https://github.com/mk13579/algorithm/blob/master/K_short_path_A*.cpp)
   * ~广义后缀自动机（广义 SAM）~
   * ~常系数非齐次线性递推~
   * ~回滚莫队&不删除莫队~
