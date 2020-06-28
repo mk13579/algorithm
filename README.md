@@ -32,7 +32,7 @@
   * ~线性方程组~
   * ~中国剩余定理~
   * ~原根~
-  * ~Trie图~
+  * (Trie图)[https://github.com/mk13579/algorithm/blob/master/Trie_graph_or_AC_Automaton.cpp]
   * ~动态树~
   * ~红黑树~
   * ~主席树~
@@ -48,7 +48,6 @@
   * ~关键路径~
   * [第K小](https://github.com/mk13579/algorithm/blob/master/quick_sort_find_k.cpp)
   * [逆序数](https://github.com/mk13579/algorithm/blob/master/Merge_sort_Inversion_Number.cpp)
-  * ~AC自动机~
   * ~后缀数组~
   * ~后缀树~
   * [ST表](https://github.com/mk13579/algorithm/blob/master/ST_Max.cpp)
