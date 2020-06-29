@@ -1,11 +1,11 @@
 ﻿# algorithm
 * 传统算法
-  * 大数运算
+  * ~大数运算~
   * ~高精度数运算~
   * [快速幂,快速乘](https://github.com/mk13579/algorithm/blob/master/Fast_power_mul.cpp)
   * [最短路_Dijkstra](https://github.com/mk13579/algorithm/blob/master/short_path_Dijkstra.cpp)
   * [最短路径_Floyd](https://github.com/mk13579/algorithm/blob/master/short_path_Floyd.cpp)
-  * ~次短路~
+  * [次短路](https://github.com/mk13579/algorithm/blob/master/second_short_path.cpp)
   * [矩阵类](https://github.com/mk13579/algorithm/blob/master/Matrix.cpp)
   * [树状数组一维](https://github.com/mk13579/algorithm/blob/master/Binary_Indexed_Tree_one_dim.cpp)
   * [树状数组二维](https://github.com/mk13579/algorithm/blob/master/Binary_Indexed_Tree_two_dim.cpp)
