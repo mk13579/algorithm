@@ -30,7 +30,7 @@
   * ~大数分解算法~
   * [逆元](https://github.com/mk13579/algorithm/blob/master/Inverse_Element.cpp)
   * ~线性方程组~
-  * ~中国剩余定理~
+  * [中国剩余定理](https://github.com/mk13579/algorithm/blob/master/China.cpp)
   * ~原根~
   * [Trie图](https://github.com/mk13579/algorithm/blob/master/Trie_graph_or_AC_Automaton.cpp)
   * ~动态树~
