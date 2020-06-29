@@ -51,7 +51,7 @@
   * ~后缀数组~
   * ~后缀树~
   * [ST表](https://github.com/mk13579/algorithm/blob/master/ST_Max.cpp)
-  * ~单调栈~
+  * [单调栈](https://github.com/mk13579/algorithm/blob/master/Monotone_Stack.cpp)
   * ~单调队列~
   * [欧拉路径](https://github.com/mk13579/algorithm/blob/master/Euler_Road.cpp)
   * ~汉密尔顿路径~
