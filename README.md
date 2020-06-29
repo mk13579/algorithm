@@ -29,7 +29,7 @@
   * ~大素数算法~
   * ~大数分解算法~
   * [逆元](https://github.com/mk13579/algorithm/blob/master/Inverse_Element.cpp)
-  * ~线性方程组~
+  * [线性方程组](https://github.com/mk13579/algorithm/blob/master/Linear_Modulus_Equation.cpp)
   * [中国剩余定理](https://github.com/mk13579/algorithm/blob/master/China.cpp)
   * ~原根~
   * [Trie图](https://github.com/mk13579/algorithm/blob/master/Trie_graph_or_AC_Automaton.cpp)
