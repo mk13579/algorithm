@@ -28,6 +28,10 @@
   * ~FMT~
   * ~大素数算法~
   * ~大数分解算法~
+  * ~全排列~
+  * ~组合数~
+  * ~计算组合数_逆元~
+  * ~计算组合数_递推~
   * [逆元](https://github.com/mk13579/algorithm/blob/master/Inverse_Element.cpp)
   * [线性方程组](https://github.com/mk13579/algorithm/blob/master/Linear_Modulus_Equation.cpp)
   * [中国剩余定理](https://github.com/mk13579/algorithm/blob/master/China.cpp)
@@ -40,7 +44,7 @@
   * ~网络流~
   * ~费用流~
   * ~插头DP~
-  * ~数独~
+  * [数独](https://github.com/mk13579/algorithm/blob/master/Sudoku.cpp)
   * [素数](https://github.com/mk13579/algorithm/blob/master/Linear_Sieve_Prime.cpp)
   * [欧拉函数/莫比乌斯函数](https://github.com/mk13579/algorithm/blob/master/Mu_And_Phi.cpp)
   * [BSGS算法](https://github.com/mk13579/algorithm/blob/master/BSGS.cpp)
