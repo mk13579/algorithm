@@ -28,8 +28,9 @@
   * ~FMT~
   * ~大素数算法~
   * ~大数分解算法~
-  * ~全排列~
+  * [全排列](https://github.com/mk13579/algorithm/blob/master/Permutation.cpp)
   * ~组合数~
+  * [计算排列数_逆元](Permutation_Inverse.cpp)
   * [计算组合数_逆元](https://github.com/mk13579/algorithm/blob/master/Combinatorial_Number_Inverse.cpp)
   * [计算组合数_递推](https://github.com/mk13579/algorithm/blob/master/Combinatorial_Number_Recursive.cpp)
   * [逆元](https://github.com/mk13579/algorithm/blob/master/Inverse_Element.cpp)
