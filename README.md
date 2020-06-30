@@ -40,6 +40,7 @@
   * ~网络流~
   * ~费用流~
   * ~插头DP~
+  * ~数独~
   * [素数](https://github.com/mk13579/algorithm/blob/master/Linear_Sieve_Prime.cpp)
   * [欧拉函数/莫比乌斯函数](https://github.com/mk13579/algorithm/blob/master/Mu_And_Phi.cpp)
   * [BSGS算法](https://github.com/mk13579/algorithm/blob/master/BSGS.cpp)
