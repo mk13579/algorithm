@@ -30,8 +30,8 @@
   * ~大数分解算法~
   * ~全排列~
   * ~组合数~
-  * ~计算组合数_逆元~
-  * ~计算组合数_递推~
+  * [计算组合数_逆元](https://github.com/mk13579/algorithm/blob/master/Combinatorial_Number_Inverse.cpp)
+  * [计算组合数_递推](https://github.com/mk13579/algorithm/blob/master/Combinatorial_Number_Recursive.cpp)
   * [逆元](https://github.com/mk13579/algorithm/blob/master/Inverse_Element.cpp)
   * [线性方程组](https://github.com/mk13579/algorithm/blob/master/Linear_Modulus_Equation.cpp)
   * [中国剩余定理](https://github.com/mk13579/algorithm/blob/master/China.cpp)
