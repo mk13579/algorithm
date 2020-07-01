@@ -38,6 +38,7 @@
   * [中国剩余定理](https://github.com/mk13579/algorithm/blob/master/China.cpp)
   * [原根](https://github.com/mk13579/algorithm/blob/master/Primitive_Root.cpp)
   * [Trie图](https://github.com/mk13579/algorithm/blob/master/Trie_graph_or_AC_Automaton.cpp)
+  * ~treap~
   * ~动态树~
   * ~红黑树~
   * ~主席树~
