@@ -43,7 +43,7 @@
   * ~主席树~
   * ~划分树~
   * [网络流_Dinic](https://github.com/mk13579/algorithm/blob/master/Network_Flows_Dinic.cpp)
-  * ~费用流~
+  * [费用流](https://github.com/mk13579/algorithm/blob/master/Min_Cost_Flow.cpp)
   * ~插头DP~
   * [数独](https://github.com/mk13579/algorithm/blob/master/Sudoku.cpp)
   * [素数](https://github.com/mk13579/algorithm/blob/master/Linear_Sieve_Prime.cpp)
