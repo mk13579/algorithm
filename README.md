@@ -88,7 +88,7 @@
   * [计算器](https://github.com/mk13579/algorithm/blob/master/Calculator_1)
   * [高斯消元](https://github.com/mk13579/algorithm/blob/master/guess.cpp)
   * [自适应辛普森公式](https://github.com/mk13579/algorithm/blob/master/simpson.cpp)
-  * ~最近公共祖先(LCA)~
+  * [最近公共祖先](https://github.com/mk13579/algorithm/blob/master/LCA.cpp)
   * [平面最近点对](https://github.com/mk13579/algorithm/blob/master/Nearest_Point.cpp)
   * [树直径_bfs](https://github.com/mk13579/algorithm/blob/master/Tree_Diameter_bfs.cpp)
   * [树直径_dfs](https://github.com/mk13579/algorithm/blob/master/Tree_Diameter_dfs.cpp)
