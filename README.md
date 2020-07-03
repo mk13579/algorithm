@@ -2,7 +2,7 @@
 * 传统算法
   * ~大数运算~
   * ~高精度数运算~
-  * ~字符串哈希~
+  * [字符串哈希](https://github.com/mk13579/algorithm/blob/master/String_Hash.cpp)
   * [快速幂,快速乘](https://github.com/mk13579/algorithm/blob/master/Fast_power_mul.cpp)
   * [最短路_Dijkstra](https://github.com/mk13579/algorithm/blob/master/short_path_Dijkstra.cpp)
   * [最短路径_Floyd](https://github.com/mk13579/algorithm/blob/master/short_path_Floyd.cpp)
