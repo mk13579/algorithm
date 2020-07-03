@@ -109,7 +109,7 @@
   * ~点分治算法~
   * ~树分治算法~
   * ~舞蹈链算法~
-  * ~拉格朗日插值算法~
+  * [拉格朗日插值算法](https://github.com/mk13579/algorithm/blob/master/Lagrange _Interpolation_Polynomial.cpp)
   * ~可持续化并查集~
   * ~左偏树~
   * ~扩展卢卡斯~
