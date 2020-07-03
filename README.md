@@ -122,7 +122,7 @@
   * [斐波那契博弈](https://github.com/mk13579/algorithm/blob/master/FIb_Game.cpp)
   * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
   * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
---------------------------------------------------------------------------------
+  * --------------------------------------------------------------------------------
   * ~Prufer序列~
   * ~多项式求逆~
   * ~可持续化数组~
