@@ -16,9 +16,11 @@
   * [字典树](https://github.com/mk13579/algorithm/blob/master/Trie_Tree.cpp)
   * [堆](https://github.com/mk13579/algorithm/blob/master/Heap.cpp)
   * [KMP算法](https://github.com/mk13579/algorithm/blob/master/KMP.cpp)
+  * ~差分约束算法~
   * ~扩展KMP算法~
   * ~BM算法~
   * [最长回文串](https://github.com/mk13579/algorithm/blob/master/Manacher.cpp)
+  * [最小表示法](https://github.com/mk13579/algorithm/blob/master/Minimum_Representation.cpp)
   * ~回文树算法~
   * [DFT](https://github.com/mk13579/algorithm/blob/master/DFT.cpp)
   * [FFT](https://github.com/mk13579/algorithm/blob/master/FFT.cpp)
@@ -52,6 +54,7 @@
   * [BSGS算法](https://github.com/mk13579/algorithm/blob/master/BSGS.cpp)
   * [二分匹配](https://github.com/mk13579/algorithm/blob/master/Bipartite_Matching.cpp)
   * [拓扑排序](https://github.com/mk13579/algorithm/blob/master/Topological_Sort_cpp)
+  * [K短路](https://github.com/mk13579/algorithm/blob/master/K_short_path_A*.cpp)
   * ~关键路径~
   * [第K小](https://github.com/mk13579/algorithm/blob/master/quick_sort_find_k.cpp)
   * [逆序数](https://github.com/mk13579/algorithm/blob/master/Merge_sort_Inversion_Number.cpp)
@@ -119,6 +122,7 @@
   * [斐波那契博弈](https://github.com/mk13579/algorithm/blob/master/FIb_Game.cpp)
   * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
   * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
+--------------------------------------------------------------------------------
   * ~Prufer序列~
   * ~多项式求逆~
   * ~可持续化数组~
@@ -143,13 +147,11 @@
   * ~多项式除法~
   * ~快速阶乘算法~
   * ~多项式开根~
-  * ~差分约束算法~
   * ~最小斯坦纳树~
   * ~扩展欧拉定理~
   * ~树上 k 级祖先~
   * ~子序列自动机~
   * ~Johnson 全源最短路~
-  * [最小表示法](https://github.com/mk13579/algorithm/blob/master/Minimum_Representation.cpp)
   * ~多项式乘法逆~
   * ~多项式快速幂~
   * ~回文自动机（PAM）~
@@ -165,7 +167,6 @@
   * ~常系数齐次线性递推~
   * ~树套树~
   * ~动态图完全连通性~
-  * [K短路](https://github.com/mk13579/algorithm/blob/master/K_short_path_A*.cpp)
   * ~广义后缀自动机（广义 SAM）~
   * ~常系数非齐次线性递推~
   * ~回滚莫队&不删除莫队~
