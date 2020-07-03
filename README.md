@@ -112,10 +112,17 @@
   * ~树分治算法~
   * ~舞蹈链算法~
   * [拉格朗日插值算法](https://github.com/mk13579/algorithm/blob/master/Lagrange_Interpolation_Polynomial.cpp)
-  * ~可持续化并查集~
+  * ~扩展BSGS~
   * ~左偏树~
   * ~扩展卢卡斯~
+  * ~扫描线~
+  * ~Polya定理~
   * ~康托展开~
+  * ~树套树~
+  * ~Stoer-Wagner算法~
+  * ~Berlekamp-Massey算法~
+  * ~Matrix-Tree 定理~
+  * ~Pollard-Rho算法~
   * [裴蜀定理](https://github.com/mk13579/algorithm/blob/master/B%C3%A9zout's_Identity.cpp)
   * [巴什博弈](https://github.com/mk13579/algorithm/blob/master/Bash_Game.cpp)
   * [威佐夫博弈](https://github.com/mk13579/algorithm/blob/master/Wythoff_Game.cpp)
@@ -124,14 +131,12 @@
   * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
   * --------------------------------------------------------------------------------
   * ~Prufer序列~
+  * ~可持续化并查集~
   * ~多项式求逆~
   * ~可持续化数组~
   * ~一般图匹配带花树算法~
   * ~仙人掌算法~
-  * ~扩展BSGS~
   * ~支配树~
-  * ~扫描线~
-  * ~Polya定理~
   * ~失配树~
   * ~Lyndon 分解~
   * ~子集卷积~
@@ -139,10 +144,6 @@
   * ~N次剩余~
   * ~笛卡尔树~
   * ~后缀平衡树~
-  * ~Stoer-Wagner算法~
-  * ~Berlekamp-Massey算法~
-  * ~Matrix-Tree 定理~
-  * ~Pollard-Rho算法~
   * ~线段树分裂~
   * ~多项式除法~
   * ~快速阶乘算法~
@@ -165,7 +166,6 @@
   * ~树分块~
   * ~下降幂多项式乘法~
   * ~常系数齐次线性递推~
-  * ~树套树~
   * ~动态图完全连通性~
   * ~广义后缀自动机（广义 SAM）~
   * ~常系数非齐次线性递推~
