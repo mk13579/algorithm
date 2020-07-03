@@ -99,8 +99,7 @@
   * ~KM算法~
   * ~2-SAT算法~
   * ~曼哈顿最小生成树算法~
-  * ~一般图匹配带花树算法~
-  * ~仙人掌算法~
+  * ~线性逆元~
   * [凸包算法](https://github.com/mk13579/algorithm/blob/master/Convex_Hull.cpp)
   * ~旋转卡壳算法~
   * ~半平面交算法~
@@ -113,8 +112,6 @@
   * ~可持续化并查集~
   * ~左偏树~
   * ~扩展卢卡斯~
-  * ~多项式求逆~
-  * ~可持续化数组~
   * ~康托展开~
   * [裴蜀定理](https://github.com/mk13579/algorithm/blob/master/B%C3%A9zout's_Identity.cpp)
   * [巴什博弈](https://github.com/mk13579/algorithm/blob/master/Bash_Game.cpp)
@@ -123,6 +120,10 @@
   * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
   * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
   * ~Prufer序列~
+  * ~多项式求逆~
+  * ~可持续化数组~
+  * ~一般图匹配带花树算法~
+  * ~仙人掌算法~
   * ~扩展BSGS~
   * ~支配树~
   * ~扫描线~
