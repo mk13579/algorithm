@@ -76,7 +76,7 @@
   * ~杜教筛~
   * [扩展欧几里得](https://github.com/mk13579/algorithm/blob/master/ex_GCD.cpp)
   * [欧几里得](https://github.com/mk13579/algorithm/blob/master/Greatest_Common_Divisor.cpp)
-  * ~二次剩余~
+  * [二次剩余](https://github.com/mk13579/algorithm/blob/master/Quadratic_Residue.cpp)
   * [莫队算法](https://github.com/mk13579/algorithm/blob/master/Mo_Team.cpp)
   * [卢卡斯定理](https://github.com/mk13579/algorithm/blob/master/Lucas.cpp)
   * [CDQ分治](https://github.com/mk13579/algorithm/blob/master/CDQ.cpp)
