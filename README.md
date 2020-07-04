@@ -110,6 +110,8 @@
   * ~后缀自动机算法~
   * ~树同构算法~
   * ~点分治算法~
+  * ~边分治算法~
+  * ~点分树算法~
   * ~舞蹈链算法~
   * [拉格朗日插值算法](https://github.com/mk13579/algorithm/blob/master/Lagrange_Interpolation_Polynomial.cpp)
   * ~扩展BSGS~
