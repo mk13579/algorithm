@@ -103,7 +103,7 @@
   * ~KM算法~
   * ~2-SAT算法~
   * ~曼哈顿最小生成树算法~
-  * ~线性逆元~
+  * [线性逆元](https://github.com/mk13579/algorithm/blob/master//Inverse_Element_Linear.cpp)
   * [凸包算法](https://github.com/mk13579/algorithm/blob/master/Convex_Hull.cpp)
   * ~旋转卡壳算法~
   * ~半平面交算法~
