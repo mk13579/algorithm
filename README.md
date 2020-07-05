@@ -29,7 +29,8 @@
   * ~MTT~
   * ~FWT~
   * ~FMT~
-  * ~大素数算法~
+  * [素数](https://github.com/mk13579/algorithm/blob/master/Prime.cpp)
+  * [大素数算法](https://github.com/mk13579/algorithm/blob/master/Big_Prime.cpp)
   * ~大数分解算法~
   * ~欧拉降幂~
   * [全排列](https://github.com/mk13579/algorithm/blob/master/Permutation.cpp)
