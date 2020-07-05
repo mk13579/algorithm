@@ -32,7 +32,6 @@
   * [素数](https://github.com/mk13579/algorithm/blob/master/Prime.cpp)
   * [大素数算法](https://github.com/mk13579/algorithm/blob/master/Big_Prime.cpp)
   * ~大数分解算法~
-  * ~欧拉降幂~
   * [全排列](https://github.com/mk13579/algorithm/blob/master/Permutation.cpp)
   * [组合数](https://github.com/mk13579/algorithm/blob/master/Combination_Number.cpp)
   * [计算排列数_逆元](Permutation_Inverse.cpp)
