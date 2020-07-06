@@ -83,7 +83,7 @@
   * [CDQ分治](https://github.com/mk13579/algorithm/blob/master/CDQ.cpp)
   * [二分查找](https://github.com/mk13579/algorithm/blob/master/Binary_Search.cpp)
   * [三分查找](https://github.com/mk13579/algorithm/blob/master/Three_Point_Search.cpp)
-  * ~树链剖分~
+  * [树链剖分](https://github.com/mk13579/algorithm/blob/master/Tree_Chain.cpp)
   * [模拟退火](https://github.com/mk13579/algorithm/blob/master/Simulated_Annealing.cpp)
   * ~Splay~
   * [负环_spfa](https://github.com/mk13579/algorithm/blob/master/Negative_Ring_spfa.cpp)
