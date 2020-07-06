@@ -68,7 +68,7 @@
   * [欧拉路径](https://github.com/mk13579/algorithm/blob/master/Euler_Road.cpp)
   * ~汉密尔顿路径~
   * ~斜率DP~
-  * ~四边形不等式优化DP~
+  * [四边形不等式优化DP](https://github.com/mk13579/algorithm/blob/master/Quadrilateral_Inequality.cpp)
   * [最优二叉树](https://github.com/mk13579/algorithm/blob/master/Huffman_Tree.cpp)
   * [割边](https://github.com/mk13579/algorithm/blob/master/Tarjan_Cut_Edge.cpp)
   * [割点](https://github.com/mk13579/algorithm/blob/master/Tarjan_Cut_Vertex.cpp)
