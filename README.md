@@ -111,7 +111,7 @@
   * ~旋转卡壳算法~
   * ~半平面交算法~
   * ~后缀自动机算法~
-  * ~树同构算法~
+  * [树同构算法](https://github.com/mk13579/algorithm/blob/master/Tree_Isomorphism.cpp)
   * ~点分治算法~
   * ~边分治算法~
   * ~点分树算法~
