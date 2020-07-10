@@ -121,7 +121,7 @@
   * ~左偏树~
   * ~扩展卢卡斯~
   * ~扫描线~
-  * ~Polya定理~
+  * [Polya定理](https://github.com/mk13579/algorithm/blob/master/Polya.cpp)
   * [康托展开](https://github.com/mk13579/algorithm/blob/master/Cantor_Expansion.cpp)
   * ~树套树~
   * ~Stoer-Wagner算法~
