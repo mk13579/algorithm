@@ -122,7 +122,7 @@
   * ~扩展卢卡斯~
   * ~扫描线~
   * ~Polya定理~
-  * ~康托展开~
+  * [康托展开](https://github.com/mk13579/algorithm/blob/master/Cantor_Expansion.cpp)
   * ~树套树~
   * ~Stoer-Wagner算法~
   * ~Berlekamp-Massey算法~
