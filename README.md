@@ -88,6 +88,8 @@
   * [斐波那契博弈](https://github.com/mk13579/algorithm/blob/master/FIb_Game.cpp)
   * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
   * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
+  * ~汉密尔顿路径~
+  * ~最长公共子序列~
   * ~大数运算~
   * ~高精度数运算~
   * ~treap~
@@ -106,7 +108,6 @@
   * ~红黑树~
   * ~后缀数组~
   * ~后缀树~
-  * ~汉密尔顿路径~
   * ~扩展BSGS~
   * ~左偏树~
   * ~扩展卢卡斯~
@@ -163,7 +164,6 @@
   * ~类欧几里得算法~
   * ~多项式复合函数~
   * ~多项式多点求值~
-  * ~最长公共子序列~
   * ~多项式快速插值~
   * ~动态DP~
   * ~最小割树~
