@@ -89,7 +89,7 @@
   * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
   * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
   * ~汉密尔顿路径~
-  * ~最长公共子序列~
+  * [最长公共子序列](https://github.com/mk13579/algorithm/blob/master/Longest_Common_Subsequence.cpp)
   * ~大数运算~
   * ~高精度数运算~
   * ~treap~
