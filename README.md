@@ -1,7 +1,5 @@
 ﻿# algorithm
 * 传统算法
-  * ~大数运算~
-  * ~高精度数运算~
   * [字符串哈希](https://github.com/mk13579/algorithm/blob/master/String_Hash.cpp)
   * [快速幂,快速乘](https://github.com/mk13579/algorithm/blob/master/Fast_power_mul.cpp)
   * [最短路_Dijkstra](https://github.com/mk13579/algorithm/blob/master/short_path_Dijkstra.cpp)
@@ -17,22 +15,14 @@
   * [字典树](https://github.com/mk13579/algorithm/blob/master/Trie_Tree.cpp)
   * [堆](https://github.com/mk13579/algorithm/blob/master/Heap.cpp)
   * [KMP算法](https://github.com/mk13579/algorithm/blob/master/KMP.cpp)
-  * ~差分约束算法~
-  * ~扩展KMP算法~
-  * ~BM算法~
   * [最长回文串](https://github.com/mk13579/algorithm/blob/master/Manacher.cpp)
   * [最小表示法](https://github.com/mk13579/algorithm/blob/master/Minimum_Representation.cpp)
-  * ~回文树算法~
   * [DFT](https://github.com/mk13579/algorithm/blob/master/DFT.cpp)
   * [FFT](https://github.com/mk13579/algorithm/blob/master/FFT.cpp)
   * [NNT](https://github.com/mk13579/algorithm/blob/master/NNT.cpp)
-  * ~MTT~
-  * ~FWT~
-  * ~FMT~
   * [素数](https://github.com/mk13579/algorithm/blob/master/Prime.cpp)
   * [大素数算法](https://github.com/mk13579/algorithm/blob/master/Big_Prime.cpp)
   * [约瑟夫问题](https://github.com/mk13579/algorithm/blob/master/Josephus_Problem.cpp)
-  * ~大数分解算法~
   * [全排列](https://github.com/mk13579/algorithm/blob/master/Permutation.cpp)
   * [组合数](https://github.com/mk13579/algorithm/blob/master/Combination_Number.cpp)
   * [计算排列数_逆元](Permutation_Inverse.cpp)
@@ -43,14 +33,8 @@
   * [中国剩余定理](https://github.com/mk13579/algorithm/blob/master/China.cpp)
   * [原根](https://github.com/mk13579/algorithm/blob/master/Primitive_Root.cpp)
   * [Trie图](https://github.com/mk13579/algorithm/blob/master/Trie_graph_or_AC_Automaton.cpp)
-  * ~treap~
-  * ~动态树~
-  * ~红黑树~
-  * ~主席树~
-  * ~划分树~
   * [网络流_Dinic](https://github.com/mk13579/algorithm/blob/master/Network_Flows_Dinic.cpp)
   * [费用流](https://github.com/mk13579/algorithm/blob/master/Min_Cost_Flow.cpp)
-  * ~插头DP~
   * [数独](https://github.com/mk13579/algorithm/blob/master/Sudoku.cpp)
   * [素数](https://github.com/mk13579/algorithm/blob/master/Linear_Sieve_Prime.cpp)
   * [欧拉函数/莫比乌斯函数](https://github.com/mk13579/algorithm/blob/master/Mu_And_Phi.cpp)
@@ -58,24 +42,18 @@
   * [二分匹配](https://github.com/mk13579/algorithm/blob/master/Bipartite_Matching.cpp)
   * [拓扑排序](https://github.com/mk13579/algorithm/blob/master/Topological_Sort_cpp)
   * [K短路](https://github.com/mk13579/algorithm/blob/master/K_short_path_A*.cpp)
-  * ~关键路径~
   * [第K小](https://github.com/mk13579/algorithm/blob/master/quick_sort_find_k.cpp)
   * [逆序数](https://github.com/mk13579/algorithm/blob/master/Merge_sort_Inversion_Number.cpp)
-  * ~后缀数组~
-  * ~后缀树~
   * [ST表](https://github.com/mk13579/algorithm/blob/master/ST_Max.cpp)
   * [单调栈](https://github.com/mk13579/algorithm/blob/master/Monotone_Stack.cpp)
   * [单调队列](https://github.com/mk13579/algorithm/blob/master/Deque.cpp)
   * [欧拉路径](https://github.com/mk13579/algorithm/blob/master/Euler_Road.cpp)
-  * ~汉密尔顿路径~
   * [斜率DP](https://github.com/mk13579/algorithm/blob/master/Slope_DP.cpp)
   * [四边形不等式优化DP](https://github.com/mk13579/algorithm/blob/master/Quadrilateral_Inequality.cpp)
   * [最优二叉树](https://github.com/mk13579/algorithm/blob/master/Huffman_Tree.cpp)
   * [割边](https://github.com/mk13579/algorithm/blob/master/Tarjan_Cut_Edge.cpp)
   * [割点](https://github.com/mk13579/algorithm/blob/master/Tarjan_Cut_Vertex.cpp)
   * [缩点](https://github.com/mk13579/algorithm/blob/master/Tarjan_Shrinking_Point.cpp)
-  * ~拆点~
-  * ~杜教筛~
   * [扩展欧几里得](https://github.com/mk13579/algorithm/blob/master/ex_GCD.cpp)
   * [欧几里得](https://github.com/mk13579/algorithm/blob/master/Greatest_Common_Divisor.cpp)
   * [二次剩余](https://github.com/mk13579/algorithm/blob/master/Quadratic_Residue.cpp)
@@ -86,10 +64,8 @@
   * [三分查找](https://github.com/mk13579/algorithm/blob/master/Three_Point_Search.cpp)
   * [树链剖分](https://github.com/mk13579/algorithm/blob/master/Tree_Chain.cpp)
   * [模拟退火](https://github.com/mk13579/algorithm/blob/master/Simulated_Annealing.cpp)
-  * ~Splay~
   * [负环_spfa](https://github.com/mk13579/algorithm/blob/master/Negative_Ring_spfa.cpp)
   * [负环_Bellman_Ford](https://github.com/mk13579/algorithm/blob/master/Negative_Ring_Bellman_Ford.cpp)
-  * ~KD树~
   * [24点游戏](https://github.com/mk13579/algorithm/blob/master/Game_24.cpp)
   * [计算器](https://github.com/mk13579/algorithm/blob/master/Calculator_1)
   * [高斯消元](https://github.com/mk13579/algorithm/blob/master/guess.cpp)
@@ -100,41 +76,64 @@
   * [树直径_dfs](https://github.com/mk13579/algorithm/blob/master/Tree_Diameter_dfs.cpp)
   * [树重心](https://github.com/mk13579/algorithm/blob/master/Tree_Centre.cpp)
   * [次小生成树](https://github.com/mk13579/algorithm/blob/master/Second_Tree.cpp)
-  * ~基环树~
-  * ~A\*算法~
-  * ~最小树型图~
-  * ~KM算法~
-  * ~2-SAT算法~
-  * ~曼哈顿最小生成树算法~
   * [线性逆元](https://github.com/mk13579/algorithm/blob/master//Inverse_Element_Linear.cpp)
   * [凸包算法](https://github.com/mk13579/algorithm/blob/master/Convex_Hull.cpp)
-  * ~旋转卡壳算法~
-  * ~半平面交算法~
-  * ~后缀自动机算法~
   * [树同构算法](https://github.com/mk13579/algorithm/blob/master/Tree_Isomorphism.cpp)
-  * ~点分治算法~
-  * ~边分治算法~
-  * ~点分树算法~
-  * ~舞蹈链算法~
   * [拉格朗日插值算法](https://github.com/mk13579/algorithm/blob/master/Lagrange_Interpolation_Polynomial.cpp)
-  * ~扩展BSGS~
-  * ~左偏树~
-  * ~扩展卢卡斯~
-  * ~扫描线~
   * [Polya定理](https://github.com/mk13579/algorithm/blob/master/Polya.cpp)
   * [康托展开](https://github.com/mk13579/algorithm/blob/master/Cantor_Expansion.cpp)
-  * ~树套树~
-  * ~Stoer-Wagner算法~
-  * ~Berlekamp-Massey算法~
-  * ~Matrix-Tree 定理~
-  * ~Pollard-Rho算法~
   * [裴蜀定理](https://github.com/mk13579/algorithm/blob/master/B%C3%A9zout's_Identity.cpp)
   * [巴什博弈](https://github.com/mk13579/algorithm/blob/master/Bash_Game.cpp)
   * [威佐夫博弈](https://github.com/mk13579/algorithm/blob/master/Wythoff_Game.cpp)
   * [斐波那契博弈](https://github.com/mk13579/algorithm/blob/master/FIb_Game.cpp)
   * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
   * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
+  * ~回文树算法~
+  * ~差分约束算法~
+  * ~扩展KMP算法~
+  * ~BM算法~
+  * ~插头DP~
+  * ~大数分解算法~
+  * ~关键路径~
+  * ~treap~
+  * ~主席树~
+  * ~红黑树~
+  * ~后缀数组~
+  * ~后缀树~
+  * ~汉密尔顿路径~
+  * ~Splay~
+  * ~大数运算~
+  * ~高精度数运算~
+  * ~扩展BSGS~
+  * ~左偏树~
+  * ~扩展卢卡斯~
+  * ~扫描线~
+  * ~点分治算法~
+  * ~舞蹈链算法~
+  * ~旋转卡壳算法~
+  * ~半平面交算法~
+  * ~基环树~
+  * ~最小树型图~
+  * ~KM算法~
+  * ~2-SAT算法~
+  * ~曼哈顿最小生成树算法~
   * --------------------------------------------------------------------------------
+  * ~KD树~
+  * ~后缀自动机算法~
+  * ~边分治算法~
+  * ~点分树算法~
+  * ~树套树~
+  * ~Stoer-Wagner算法~
+  * ~Berlekamp-Massey算法~
+  * ~Matrix-Tree 定理~
+  * ~Pollard-Rho算法~
+  * ~动态树~
+  * ~划分树~
+  * ~MTT~
+  * ~拆点~
+  * ~杜教筛~
+  * ~FWT~
+  * ~FMT~
   * ~Prufer序列~
   * ~可持续化并查集~
   * ~多项式求逆~
