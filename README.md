@@ -89,17 +89,17 @@
     * [斐波那契博弈](https://github.com/mk13579/algorithm/blob/master/FIb_Game.cpp)
     * [尼姆博弈](https://github.com/mk13579/algorithm/blob/master/Nim_Game.cpp)
     * [SG函数](https://github.com/mk13579/algorithm/blob/master/SG_Game.cpp)
-    * ~汉密尔顿路径~
     * [最长公共子序列](https://github.com/mk13579/algorithm/blob/master/Longest_Common_Subsequence.cpp)
     * [大数运算](https://github.com/mk13579/algorithm/blob/master/Big_Number.cpp)
-    * ~高精度数运算~
+    * ~汉密尔顿路径~
     * ~treap~
     * ~Splay~
-    * ~主席树~
     * ~关键路径~
+  * 第二阶段
+    * ~主席树~
     * ~KM算法~
     * ~2-SAT算法~
-  * 第二阶段
+    * ~高精度数运算~
     * ~回文树算法~
     * ~差分约束算法~
     * ~扩展KMP算法~
